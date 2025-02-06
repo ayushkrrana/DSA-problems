@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkrrana/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
+| [3429-special-array-i](https://github.com/ayushkrrana/DSA-problems/tree/master/3429-special-array-i) |
 ## Binary Search
 |  |
 | ------- |
