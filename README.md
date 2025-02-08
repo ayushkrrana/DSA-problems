@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
+| [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushkrrana/DSA-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushkrrana/DSA-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
