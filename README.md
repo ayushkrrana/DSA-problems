@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushkrrana/DSA-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkrrana/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3429-special-array-i](https://github.com/ayushkrrana/DSA-problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushkrrana/DSA-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
+| [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
