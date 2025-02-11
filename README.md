@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ayushkrrana/DSA-problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ayushkrrana/DSA-problems/tree/master/0010-regular-expression-matching) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushkrrana/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ayushkrrana/DSA-problems/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushkrrana/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ayushkrrana/DSA-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ayushkrrana/DSA-problems/tree/master/3447-clear-digits) |
 ## Design
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushkrrana/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ayushkrrana/DSA-problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
