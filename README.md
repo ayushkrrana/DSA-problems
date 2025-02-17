@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
+| [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ayushkrrana/DSA-problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ayushkrrana/DSA-problems/tree/master/0010-regular-expression-matching) |
+| [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushkrrana/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ayushkrrana/DSA-problems/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
+| [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ayushkrrana/DSA-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
