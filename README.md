@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushkrrana/DSA-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkrrana/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/ayushkrrana/DSA-problems/tree/master/0037-sudoku-solver) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/ayushkrrana/DSA-problems/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/ayushkrrana/DSA-problems/tree/master/2107-find-unique-binary-string) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkrrana/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushkrrana/DSA-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ayushkrrana/DSA-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
