@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ayushkrrana/DSA-problems/tree/master/0010-regular-expression-matching) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayushkrrana/DSA-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushkrrana/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ayushkrrana/DSA-problems/tree/master/2107-find-unique-binary-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayushkrrana/DSA-problems/tree/master/0010-regular-expression-matching) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ayushkrrana/DSA-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayushkrrana/DSA-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayushkrrana/DSA-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
