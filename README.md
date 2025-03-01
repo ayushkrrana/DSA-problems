@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ayushkrrana/DSA-problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ayushkrrana/DSA-problems/tree/master/0010-regular-expression-matching) |
+| [0344-reverse-string](https://github.com/ayushkrrana/DSA-problems/tree/master/0344-reverse-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ayushkrrana/DSA-problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1170-shortest-common-supersequence) |
@@ -176,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/ayushkrrana/DSA-problems/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
