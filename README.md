@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayushkrrana/DSA-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2001-jump-game-vii](https://github.com/ayushkrrana/DSA-problems/tree/master/2001-jump-game-vii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ayushkrrana/DSA-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ayushkrrana/DSA-problems/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ayushkrrana/DSA-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ayushkrrana/DSA-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2001-jump-game-vii](https://github.com/ayushkrrana/DSA-problems/tree/master/2001-jump-game-vii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushkrrana/DSA-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/ayushkrrana/DSA-problems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushkrrana/DSA-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ayushkrrana/DSA-problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayushkrrana/DSA-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ayushkrrana/DSA-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2001-jump-game-vii](https://github.com/ayushkrrana/DSA-problems/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ayushkrrana/DSA-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/ayushkrrana/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Recursion
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ayushkrrana/DSA-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2001-jump-game-vii](https://github.com/ayushkrrana/DSA-problems/tree/master/2001-jump-game-vii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushkrrana/DSA-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ayushkrrana/DSA-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
