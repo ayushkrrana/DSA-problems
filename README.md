@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ayushkrrana/DSA-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/ayushkrrana/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ayushkrrana/DSA-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ayushkrrana/DSA-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushkrrana/DSA-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkrrana/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ayushkrrana/DSA-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushkrrana/DSA-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ayushkrrana/DSA-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ayushkrrana/DSA-problems/tree/master/2690-house-robber-iv) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushkrrana/DSA-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ayushkrrana/DSA-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ayushkrrana/DSA-problems/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -363,4 +367,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ayushkrrana/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/ayushkrrana/DSA-problems/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ayushkrrana/DSA-problems/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ayushkrrana/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
